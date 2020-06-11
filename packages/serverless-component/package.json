@@ -1,11 +1,11 @@
 {
   "name": "serverless-next.js",
-  "version": "1.13.3",
+  "version": "1.13.4",
   "description": "Serverless nextjs powered by Serverless Components",
   "main": "serverless.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielcondemarin/serverless-next.js.git",
+    "url": "git+https://github.com/andrebonna/serverless-next.js.git",
     "directory": "packages/serverless-component"
   },
   "keywords": [
@@ -16,9 +16,9 @@
   "author": "Daniel Conde Marin <danielconde9@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/danielcondemarin/serverless-next.js/issues"
+    "url": "https://github.com/andrebonna/serverless-next.js/issues"
   },
-  "homepage": "https://github.com/danielcondemarin/serverless-next.js#readme",
+  "homepage": "https://github.com/andrebonna/serverless-next.js#readme",
   "engines": {
     "node": ">=10.11.0"
   },
