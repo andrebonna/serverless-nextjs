@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.13.3](https://github.com/danielcondemarin/serverless-next.js/compare/serverless-next.js@1.13.1...serverless-next.js@1.13.3) (2020-06-11)
+
+**Note:** Version bump only for package serverless-next.js
+
 ## [1.13.1](https://github.com/danielcondemarin/serverless-next.js/compare/serverless-next.js@1.13.0...serverless-next.js@1.13.1) (2020-06-11)
 
 **Note:** Version bump only for package serverless-next.js
