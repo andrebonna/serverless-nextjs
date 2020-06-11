@@ -1,6 +1,6 @@
 {
   "name": "@andre.bonna/serverless-next.js",
-  "version": "1.13.7",
+  "version": "1.14.0",
   "description": "Serverless nextjs powered by Serverless Components",
   "main": "serverless.js",
   "repository": {
