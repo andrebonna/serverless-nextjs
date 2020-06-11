@@ -1,6 +1,6 @@
 const fse = require("fs-extra");
 const path = require("path");
-const { mockDomain } = require("@serverless/domain");
+const { mockDomain } = require("@andre.bonna/domain");
 const { mockS3 } = require("@serverless/aws-s3");
 const { mockUpload } = require("aws-sdk");
 const { mockLambda, mockLambdaPublish } = require("@serverless/aws-lambda");
@@ -101,7 +101,7 @@ describe("Custom inputs", () => {
       return cleanupFixtureDirectory(fixturePath);
     });
 
-    it("uses @serverless/domain to provision custom domain", () => {
+    it("uses @andre.bonna/domain to provision custom domain", () => {
       const { domain, subdomain } = obtainDomains(inputDomains);
 
       expect(mockDomain).toBeCalledWith({
