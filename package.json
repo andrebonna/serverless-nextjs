@@ -56,7 +56,7 @@
     "jest-when": "^2.7.0",
     "lerna": "^3.16.4",
     "lint-staged": "^10.2.9",
-    "next": "^9.4.4",
+    "next": "^11.1.0",
     "next-aws-cloudfront": "file:packages/lambda-at-edge-compat",
     "prettier": "^1.17.1",
     "react": "^16.9.0",
